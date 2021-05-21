@@ -1,0 +1,49 @@
+[
+  {
+    "id": "58efd1c6-67a6-402f-9188-c4c8943e7960",
+    "data": [
+      {
+        "text": "maggi",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b0c8d7b-9719-4a7f-a11a-ecf6ffc4f168",
+    "data": [
+      {
+        "text": "steam momos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3fb82c2-52db-4710-8aca-c072e777bc4f",
+    "data": [
+      {
+        "text": "spring",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      },
+      {
+        "text": " roll",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
